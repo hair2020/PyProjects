@@ -1,0 +1,1 @@
+OCR使用[sml2h3/ddddocr: 带带弟弟 通用验证码识别OCR pypi版 (github.com)](https://github.com/sml2h3/ddddocr)
